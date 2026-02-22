@@ -1,40 +1,44 @@
 # Hi there, I'm Ahmed Mohamed 
 
-### Software Engineer | Full-Stack, AI & Quantum Enthusiast
-I build high-performance software solutions across the full stack while exploring the frontier of **Quantum Computing** and **Physics-informed AI**. My goal is to bridge the gap between classical computing robustness and the future of quantum-inspired problem solving.
+### Software Engineer | Full-Stack, Mobile & AI Solutions
+I specialize in building production-ready applications that integrate modern web/mobile architectures with specialized **Machine Learning** and **Deep Learning** solvers. I focus on clean, scalable code and high-performance system design.
 
 ---
 
-### Core Specializations
-
-* **Quantum Computing:** Exploring Qiskit/Cirq and the intersection of Physics & Computation.
-* **AI & Machine Learning:** Deep Learning (DL) solver development and AI-Ready integration.
-* **Cross-Platform Dev:** Full-stack Web (React/Node) and Mobile (Flutter) architecture.
-* **Systems & Backend:** High-efficiency logic in C++, Java, and Spring Boot.
+###  Current Focus & Research
+-  **AI & Deep Learning:** Researching specialized ML/DL solvers and high-efficiency model integration.
+-  **Cross-Platform Dev:** Architecting seamless mobile experiences using **Flutter**.
+-  **Full-Stack Systems:** Building data-driven platforms with **React**, **Node.js**, and **Spring Boot**.
 
 ---
 
-### 🛠 Technical Ecosystem
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Physics & Quantum** | Qiskit, Cirq, NumPy, SciPy |
-| **Full Stack** | React, Flutter, Node.js, Express, Spring Boot |
-| **Languages** | Python, Java, C++, JavaScript, Dart |
-| **Data Architecture** | MongoDB, MySQL, PostgreSQL |
-| **Intelligence** | TensorFlow/PyTorch, Computer Vision, ML/DL Solvers |
+###  Future Interests
+*Exploring the next frontier of computation:*
+* **Quantum Computing:** Familiarizing with **Qiskit** and **Cirq** for future-ready software.
+* **Physics-Informed AI:** Merging physical laws with neural network architectures.
 
 ---
 
-### 📈 GitHub Insights
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedsocrates&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsocrates&layout=compact&theme=tokyonight)
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,dart&perline=10" alt="Languages" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,flutter,nodejs,express,spring&perline=10" alt="Frameworks" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,tensorflow,pytorch&perline=10" alt="Tools" />
+</p>
 
 ---
 
-### 🧪 Current Research & Focus
-- ⚛️ Optimizing classical algorithms for **Quantum-ready environments**.
-- 📱 Developing AI-integrated mobile applications using **Flutter & TensorFlow Lite**.
-- 🛠 Building scalable microservices with **Spring Boot** and **C++** for performance-critical tasks.
+###  Engineering Stats
+<p align="left">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AhmedSocrates&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats Card" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmedSocrates&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
+
+###  Connect with me:
+[LinkedIn](www.linkedin.com/in/ahmed-elfaki-645251196) • [Portfolio](Coming soon) • [Email](ahmedelfaki512@gmail.com)
