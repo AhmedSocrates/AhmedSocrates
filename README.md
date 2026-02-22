@@ -1,7 +1,7 @@
-# Hi there, I'm Ahmed Mohamed 
+# Hi there, I'm [Ahmed Mohamed]  
 
-### Software Engineer | Full-Stack, Mobile & AI Solutions
-I specialize in building production-ready applications that integrate modern web/mobile architectures with specialized **Machine Learning** and **Deep Learning** solvers. I focus on clean, scalable code and high-performance system design.
+### Junior Software Engineer | Full-Stack, Mobile & AI Solutions
+I build production-ready applications, integrating modern web/mobile architectures with specialized **Machine Learning** and **Deep Learning** solvers. Focused on high-performance system design and clean code.
 
 ---
 
@@ -14,31 +14,39 @@ I specialize in building production-ready applications that integrate modern web
 
 ###  Future Interests
 *Exploring the next frontier of computation:*
-* **Quantum Computing:** Familiarizing with **Qiskit** and **Cirq** for future-ready software.
-* **Physics-Informed AI:** Merging physical laws with neural network architectures.
+- **Quantum Computing:** Familiarizing with **Qiskit** and **Cirq**.
+- **Physics-Informed AI:** Merging physical laws with neural network architectures.
 
 ---
 
-### 🛠 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,dart&perline=10" alt="Languages" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,flutter,nodejs,express,spring&perline=10" alt="Frameworks" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,tensorflow,pytorch&perline=10" alt="Tools" />
-</p>
+###  Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,java,cpp,js,dart" height="35" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,flutter,html,css" height="35" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,spring" height="35" /> |
+| **Data & AI** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,tensorflow,pytorch" height="35" /> |
 
 ---
 
 ###  Engineering Stats
-<p align="left">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AhmedSocrates&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats Card" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmedSocrates&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+
+| GitHub Activity | Top Languages |
+| :--- | :--- |
+| <img src="https://github-readme-stats.vercel.app/api?username=AhmedSocrates&show_icons=true&theme=tokyonight&hide_border=true" height="150" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSocrates&layout=compact&theme=tokyonight&hide_border=true" height="150" /> |
 
 ---
 
 ###  Connect with me:
-[LinkedIn](www.linkedin.com/in/ahmed-elfaki-645251196) • [Portfolio](Coming soon) • [Email](ahmedelfaki512@gmail.com)
+<p align="left">
+<a href="https://linkedin.com/in/ahmed-elfaki-645251196" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://ahmedelfaki.com" target="_blank">
+<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+</a>
+</p>
