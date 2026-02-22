@@ -1,4 +1,4 @@
-# Hi there, I'm [Ahmed Mohamed]  
+# Hi there, I'm Ahmed Mohamed  
 
 ### Junior Software Engineer | Full-Stack, Mobile & AI Solutions
 I build production-ready applications, integrating modern web/mobile architectures with specialized **Machine Learning** and **Deep Learning** solvers. Focused on high-performance system design and clean code.
@@ -34,7 +34,7 @@ I build production-ready applications, integrating modern web/mobile architectur
 
 | GitHub Activity | Top Languages |
 | :--- | :--- |
-| <img src="https://github-readme-stats.vercel.app/api?username=AhmedSocrates&show_icons=true&theme=tokyonight&hide_border=true" height="150" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSocrates&layout=compact&theme=tokyonight&hide_border=true" height="150" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=AhmedSocrates&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSocrates&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" /> |
 
 ---
 
