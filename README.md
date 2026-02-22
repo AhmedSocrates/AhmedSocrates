@@ -30,11 +30,11 @@ I build production-ready applications, integrating modern web/mobile architectur
 
 ---
 
-### 📊 Engineering Stats
+###  Engineering Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedSocrates&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSocrates&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AhmedSocrates&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats Card" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmedSocrates&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
