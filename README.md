@@ -33,8 +33,8 @@ I build production-ready applications, integrating modern web/mobile architectur
 ###  Engineering Stats
 
 <p align="left">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AhmedSocrates&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats Card" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmedSocrates&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AhmedSocrates&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats Card" width="45%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmedSocrates&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
 </p>
 
 ---
