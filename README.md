@@ -30,7 +30,7 @@ I build production-ready applications, integrating modern web/mobile architectur
 
 ---
 
-###  Engineering Stats
+###  GitHub Stats
 
 <p align="left">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AhmedSocrates&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats Card" width="45%"/>
@@ -44,7 +44,7 @@ I build production-ready applications, integrating modern web/mobile architectur
 <a href="https://linkedin.com/in/ahmed-elfaki-645251196" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:your-email@example.com">
+<a href="ahmedelfaki512@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://ahmedelfaki.com" target="_blank">
