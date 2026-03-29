@@ -1,12 +1,12 @@
 # Hi there, I'm Ahmed Mohamed  
 
 ### Junior Software Engineer | Full-Stack, Mobile & AI Solutions
-I build production-ready applications, integrating modern web/mobile architectures with specialized **Machine Learning** and **Deep Learning** solvers. Focused on high-performance system design and clean code.
+I build production-ready applications, integrating modern web/mobile architectures with specialized **Machine Learning** and **Deep Learning** Models. Focused on high-performance system design and clean code.
 
 ---
 
 ###  Current Focus & Research
--  **AI & Deep Learning:** Researching specialized ML/DL solvers and high-efficiency model integration.
+-  **AI & Deep Learning:** Researching specialized ML/DL Models and high-efficiency model integration.
 -  **Cross-Platform Dev:** Architecting seamless mobile experiences using **Flutter**.
 -  **Full-Stack Systems:** Building data-driven platforms with **React**, **Node.js**, and **Spring Boot**.
 
