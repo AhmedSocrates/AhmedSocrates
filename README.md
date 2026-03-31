@@ -14,9 +14,9 @@ I build production-ready applications, integrating modern web/mobile architectur
 
 ###  Future Interests
 *Exploring the next frontier of computation:*
-- **Quantum Computing:** Familiarizing with **Qiskit** and **Cirq**.
+- **Quantum Computing:** Familiarizing with **Qiskit**.
 - **Physics-Informed AI:** Merging physical laws with neural network architectures.
-I would love to collaborate in any project related to these topics
+I would love to collaborate in any project related to these topics 
 ---
 
 ###  Tech Stack
